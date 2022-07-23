@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Galah Pack",
+		"description": "Galah Pack Resource Pack",
+		"uuid": "03451109-99fc-0fe4-8a26-af16c7e18369",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Ben Franzi"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.8"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Galah Pack",
+			"type": "resources",
+			"uuid": "a17ef875-4341-0fe0-4fca-022bd3f19509",
+			"version": [1, 0, 0]
+		}
+	]
+}

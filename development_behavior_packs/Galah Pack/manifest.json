@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Galah Pack",
+		"description": "Galah Pack Behavior Pack",
+		"uuid": "eec56a72-64cd-c6c7-63af-6e278327b6f5",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Ben Franzi"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.8"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "e282ad63-e8f1-02d1-6ade-3758a210fe95",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "03451109-99fc-0fe4-8a26-af16c7e18369",
+			"version": [1, 0, 0]
+		}
+	]
+}
